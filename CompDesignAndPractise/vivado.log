@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Jul  9 11:29:26 2021
+# Process ID: 11236
+# Current directory: D:/计算机设计与实践/CompDesignAndPractise
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11212 D:\计算机设计与实践\CompDesignAndPractise\CompDesignAndPractise.xpr
+# Log file: D:/计算机设计与实践/CompDesignAndPractise/vivado.log
+# Journal file: D:/计算机设计与实践/CompDesignAndPractise\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/计算机设计与实践/CompDesignAndPractise/CompDesignAndPractise.xpr
+CRITICAL WARNING: [Project 1-19] Could not find the file 'D:/CompDesignAndPractise/CompDesignAndPractise.srcs/sources_/prgrom/prgrom.xci'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'D:/CompDesignAndPractise/CompDesignAndPractise.srcs/sources_/dram/dram.xci'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+ERROR: [IP_Flow 19-993] Could not find IP file for IP 'prgrom'.
+CRITICAL WARNING: [IP_Flow 19-5097] Unable to determine VLNV from IP file; verify it has the correct syntax: 
+ERROR: [IP_Flow 19-993] Could not find IP file for IP 'dram'.
+CRITICAL WARNING: [IP_Flow 19-5097] Unable to determine VLNV from IP file; verify it has the correct syntax: 
+ERROR: [Common 17-39] 'open_project' failed due to earlier errors.
+update_compile_order -fileset sources_1
+set_property top top [current_fileset]
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jul  9 12:28:27 2021...

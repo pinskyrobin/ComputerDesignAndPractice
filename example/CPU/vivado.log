@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Jul  9 11:29:20 2021
+# Process ID: 12224
+# Current directory: D:/计算机设计与实践/example/CPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7368 D:\计算机设计与实践\example\CPU\CPU.xpr
+# Log file: D:/计算机设计与实践/example/CPU/vivado.log
+# Journal file: D:/计算机设计与实践/example/CPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/计算机设计与实践/example/CPU/CPU.xpr
+INFO: [Project 1-313] Project file moved from 'D:/CPU' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jul  9 12:28:29 2021...

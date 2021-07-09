@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:D:/190110628/single_cycle_cpu/single_cycle_cpu.srcs/constrs_1/new/display.xdc rfile:../single_cycle_cpu.srcs/constrs_1/new/display.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN R1 [get_ports start]
+set_property src_info {type:XDC file:1 line:70 export:INPUT save:INPUT read:READ} [current_design]
+set_property IOSTANDARD LVCMOS33 [get_ports start]

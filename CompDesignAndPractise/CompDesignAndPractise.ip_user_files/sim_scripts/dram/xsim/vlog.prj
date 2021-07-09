@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../../../CompDesignAndPractise/CompDesignAndPractise.srcs/sources_/dram/sim/dram.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

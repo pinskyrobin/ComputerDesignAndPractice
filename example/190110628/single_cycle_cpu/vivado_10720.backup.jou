@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Jul  5 18:51:29 2021
+# Process ID: 10720
+# Current directory: D:/single_cycle_cpu
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17880 D:\single_cycle_cpu\single_cycle_cpu.xpr
+# Log file: D:/single_cycle_cpu/vivado.log
+# Journal file: D:/single_cycle_cpu\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/single_cycle_cpu/single_cycle_cpu.xpr
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+close_design
+synth_design -rtl -name rtl_1
+close_design
+synth_design -rtl -name rtl_1
+close_design
+synth_design -rtl -name rtl_1
+close_design

@@ -1,0 +1,1 @@
+-wto "b27362e5dc38409eb888d7758e46ca88" --incr --debug "typical" --relax --mt "2" -L "dist_mem_gen_v8_0_12" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "miniRV_sim_behav" "xil_defaultlib.miniRV_sim" "xil_defaultlib.glbl" -log "elaborate.log" 
